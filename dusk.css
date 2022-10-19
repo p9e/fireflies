@@ -8,13 +8,8 @@
   color: #eee;
 }
 
-:link {
+:any-link {
   color: #111;
-  background: #bae;
-}
-
-:visited {
-  color: #222;
   background: #bae;
 }
 
