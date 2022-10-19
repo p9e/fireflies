@@ -5,26 +5,22 @@
 
 :root {
   background: #ddd;
-  color: #100;
+  color: #200305;
 }
 
-:link {
-  background: darkslateblue;
-  color: oldlace;
-}
-
-:visited {
-  background: blueviolet;
-  color: #eee;
+:any-link {
+  background: mistyrose;
+  color: darkmagenta;
 }
 
 :focus {
-  outline-color: #100;
+  outline-color: currentColor;
 }
 
 :any-link:hover {
   background: darkviolet;
-  text-decoration-color: #100;
+  color: peachpuff;
+  text-decoration-color: gold;
 }
 
 mark {
